@@ -32,7 +32,8 @@
 
 | **임병욱** | **백서영** | **조기범** |
 | :------: |  :------: |  :------: |
-| [<img src="https://avatars.githubusercontent.com/u/103362820?v=4" height=150 width=150> <br/> @bottlewook](https://github.com/bottlewook) | [<img src="https://avatars.githubusercontent.com/u/101791501?v=4" height=150 width=150> <br/> @seoye0ng](https://github.com/seoye0ng)  | [<img src="https://github.com/eun-hak/F1-WashFit-FE/assets/95483959/76d0842b-5ccd-462c-bf07-3ad8f693caa8" alt="Example Image" width="150" height="150"> <br/> @eun-hak](https://github.com/eun-hak) 
+| [<img src="https://avatars.githubusercontent.com/u/103362820?v=4" height=150 width=150> <br/> @bottlewook](https://github.com/bottlewook) | [<img src="https://avatars.githubusercontent.com/u/101791501?v=4" height=150 width=150> <br/> @seoye0ng](https://github.com/seoye0ng)  | [<img src="https://github.com/eun-hak/F1-WashFit-FE/assets/95483959/949a48fa-6d14-4794-9b47-006cc51fda71" alt="Example Image" width="150" height="150"> <br/> @eun-hak](https://github.com/eun-hak) 
+
 
 
 </div>
